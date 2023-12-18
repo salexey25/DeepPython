@@ -1,0 +1,13 @@
+WARNING:Rectangle:19:35:41 Был запущен class Rectangle
+INFO:Rectangle:19:35:41 Вычисление площади
+INFO:Rectangle:19:35:41 Вычисление периметра
+WARNING:Rectangle:19:35:45 Был запущен class Rectangle
+INFO:Rectangle:19:35:45 Передано одно значение
+INFO:Rectangle:19:35:45 Вычисление площади
+INFO:Rectangle:19:35:45 Вычисление периметра
+WARNING:Rectangle:19:35:48 Был запущен class Rectangle
+INFO:Rectangle:19:35:48 Передано одно значение
+CRITICAL:Rectangle:19:35:48 Нет значений для вычислений
+INFO:Rectangle:19:35:48 Вычисление площади
+INFO:Rectangle:19:35:48 Вычисление периметра
+WARNING:Rectangle:19:36:06 Был запущен class Rectangle

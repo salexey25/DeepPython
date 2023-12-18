@@ -1,0 +1,10 @@
+CRITICAL:Dictionary:19:37:24 Передана пустая строка
+INFO:Dictionary:19:37:24 Пользователь Alex запустил программу
+CRITICAL:Dictionary:19:37:24 Передана пустая строка
+CRITICAL:Dictionary:19:38:20 Передана пустая строка
+INFO:Dictionary:19:38:20 Неизвестный пользователь отказался запускать программу
+INFO:Dictionary:19:39:40 Пользователь Alex запустил программу
+INFO:Dictionary:19:39:40 Пользователь Alex вышел из программы
+INFO:Dictionary:19:40:09 Пользователь Alex запустил программу
+INFO:Dictionary:19:40:09 Пользователь ввел строку Errors and Exceptions
+INFO:Dictionary:19:40:09 Результат {'E': 2, 'r': 3, 'o': 2, 's': 2, 'a': 1, 'n': 2, 'd': 1, 'x': 1, 'c': 1, 'e': 1, 'p': 1, 't': 1, 'i': 1}
